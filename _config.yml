@@ -10,15 +10,9 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-<<<<<<< HEAD
-#theme                    :"minimal-mistakes-jekyll"
-remote_theme           :"mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :"dark" #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-=======
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
->>>>>>> 60fdb300bd5ffb5d9087715deda94642c87a1b16
 
 # Site Settings
 locale                   : "en-US"
@@ -113,17 +107,12 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
+
   name             :"Jaeik Cho"
   avatar           :"/assets/images/bio-photo.jpg"
   bio              :"정상을 향해 가자"
   location         :"South Korea, Seoule"
-=======
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
->>>>>>> 60fdb300bd5ffb5d9087715deda94642c87a1b16
+
   email            :
   links:
     - label: "Email"
